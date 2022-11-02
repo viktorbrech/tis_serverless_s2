@@ -1,0 +1,15 @@
+{
+  "runtime": "nodejs12.x",
+  "version": "1.0",
+  "endpoints": {
+    "set-language-YOURNAME": {
+      "method": "POST",
+      "file": "detectlanguage.js"
+    }
+  },
+  "appFunctions": {
+    "dummy": {
+      "file": "dummy.js"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "serverless example functions",
+    "version": "1.0.0",
+    "description": "",
+    "main": "detectlanguage.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "languagedetect": "^2.0.0"
+    }
+  }

@@ -1,0 +1,6 @@
+{
+  "name": "(YOURNAME) Infer hs_language from comment (V3)",
+  "description": "Private app to wrap V3 of the TIS_S2 example",
+  "scopes": ["crm.objects.contacts.read", "crm.objects.contacts.write"],
+  "public": false
+}
